@@ -1,1 +1,2 @@
-this is a practice model from git.
+Hi, this is a practice module from git.
+Adding a new line.
